@@ -1,0 +1,5 @@
+ให้น้องเลือก Technology, Library หรือแนวคิดใหม่ๆ ในการทำเว็บมาหนึ่งอย่างพร้อมกับอธิบายว่าคืออะไร และทำไมถึงตัดสินใจเลือกอันนี้
+
+ตอนนี้ ภัทรมีความสนใจด้าน Progressive Web Apps (PWAs) 
+PWAs คือ เทคโนโลยีที่ทำให้ Web page ธรรมดากลายเป็น application ที่เรียกว่า web application website ที่เป็น PWAs จึงสามารถแสดงผลได้ผ่านยัง web browser และ สามารถกดสร้าง icon ในผ่าน browser แล้วมีการทำให้ที่คล้ายๆ native application PWAs ทำให้ user มีความรู้สึกเหมือน native application มากที่สุด มี การ push notification, และใช้ website แบบ offline ได้ ซึ่ง PWAs มีน้ำหนักที่เบากว่า native application
+ส่วนเหตุผลที่สนใจและเลือกที่จะเริ้มต้นพัฒนา PWAs เพราะว่า สามารถประหยัด cost ในการพัฒนา ระบบ ใน 2 ถึง 3 ระบบ ในประมาณปัจจุบัน เช่น iOS, Android และ website รวมถึงการ ประหยัดค่า Apps store ด้วย
